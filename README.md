@@ -13,7 +13,7 @@ The contribute to the manual, please follow these steps:
 - Enter a title and description for your pull request. If your pull request addresses specific GitHiub issues, mention them in the description.
 - Click `Create pull request`.
 
-<details>
+<li><details>
   <summary>How to obtain a taxon checklist for an area?</summary>
   <br>
   
@@ -40,4 +40,4 @@ The contribute to the manual, please follow these steps:
     group_by(phylum, class, order, family, genus, species, scientificName) %>%
     summarize(records = n())
   ```
-</details>
+</details></li>
