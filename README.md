@@ -13,3 +13,12 @@ The contribute to the manual, please follow these steps:
 - Enter a title and description for your pull request. If your pull request addresses specific GitHiub issues, mention them in the description.
 - Click `Create pull request`.
 
+<details>
+  <summary>There's code inside this dropdown...</summary>
+  <br>
+  
+  This is how you add `code` in a dropdown:
+  ```javascript
+  console.log("Hello, world!");
+  ```
+</details>
