@@ -23,6 +23,7 @@ The contribute to the manual, please follow these steps:
 </ul>
 <ul>
   <li><details>
+    
     <summary>How to obtain a taxon checklist for an area?</summary>
     <br>
     
