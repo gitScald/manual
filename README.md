@@ -25,6 +25,7 @@ The contribute to the manual, please follow these steps:
   <li><details>
     <summary>How to obtain a taxon checklist for an area?</summary>
     <br>
+    
     There are a few possible ways to obtain a taxon checklist for a given area. We will obtain a checklist of species in the Albain EEZ as an example. To do this we will create a bounding box around our area of interest, and then apply filters to simplify the geometry.
     ```r
     library(mregions)
